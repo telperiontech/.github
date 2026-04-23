@@ -30,7 +30,7 @@ Telperion Technology is an open-source organization building battle-tested utili
 | [**js-utils**](https://github.com/telperiontech/js-utils) | 50+ utility functions for arrays, objects, promises, strings, and more | ⭐ 26 | TypeScript |
 | [**telperion**](https://github.com/telperiontech/telperion) | Monorepo of open-source packages including `@telperion/js-utils`, `@telperion/extra-ts-types`, `@telperion/rx-utils`, `@telperion/messenger`, and more | ⭐ 2 | TypeScript |
 | [**maslak**](https://github.com/telperiontech/maslak) | Converts flat objects to key-value pairs and sorts them by a given array | ⭐ 8 | JavaScript |
-| [**version-update**](https://github.com/telperiontech/version-update) | CLI tool to bump `package.json` version numbers | JavaScript |
+| [**version-update**](https://github.com/telperiontech/version-update) | CLI tool to bump `package.json` version numbers | — | JavaScript |
 
 ### 🌐 Web & DOM Utilities
 
@@ -38,9 +38,9 @@ Telperion Technology is an open-source organization building battle-tested utili
 |---|---|---|---|
 | [**scroll-manager**](https://github.com/telperiontech/scroll-manager) | Improved scroll events & scroll management using RxJS observables | ⭐ 5 | TypeScript |
 | [**resize-manager**](https://github.com/telperiontech/resize-manager) | Improved resize events for window & DOM elements | ⭐ 1 | TypeScript |
-| [**position-tracker**](https://github.com/telperiontech/position-tracker) | Library to track DOM element position in the browser | TypeScript |
-| [**sticky**](https://github.com/telperiontech/sticky) | Sticky web component | TypeScript |
-| [**styled-web-components**](https://github.com/telperiontech/styled-web-components) | Styled web components | JavaScript |
+| [**position-tracker**](https://github.com/telperiontech/position-tracker) | Library to track DOM element position in the browser | — | TypeScript |
+| [**sticky**](https://github.com/telperiontech/sticky) | Sticky web component | — | TypeScript |
+| [**styled-web-components**](https://github.com/telperiontech/styled-web-components) | Styled web components | — | JavaScript |
 
 ### ⚡ Angular & Framework Utilities
 
@@ -51,9 +51,9 @@ Telperion Technology is an open-source organization building battle-tested utili
 
 ### 📡 Messaging & Communication
 
-| Repository | Description | Language |
-|---|---|---|
-| [**hermes**](https://github.com/telperiontech/hermes) | JavaScript messaging library for Chrome extensions, iframes, and web workers | TypeScript |
+| Repository | Description | Stars | Language |
+|---|---|---|---|
+| [**hermes**](https://github.com/telperiontech/hermes) | JavaScript messaging library for Chrome extensions, iframes, and web workers | — | TypeScript |
 
 ---
 
